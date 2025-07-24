@@ -39,3 +39,4 @@ head:
 # Trainings
 
 - [(PL) Node.js - developing advanced applications using NestJS](https://bottega.com.pl/szkolenie-nestjs)
+- [(DE) NestJS - Intensive workshop](https://workshops.de/seminare-schulungen-kurse/nestjs)
